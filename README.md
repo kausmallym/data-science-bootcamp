@@ -1,13 +1,12 @@
-"# data-science-bootcamp
+# Data Science Bootcamp
 
-# Getting Started with Python and Jupyter Notebook
+## Getting Started with Python and Jupyter Notebook
 
 - week-01
 
-# Python Fundamentals
+## Python Fundamentals
 
 - week-02
 - week-n
-- week-n
-# ...add more weeks as needed..."
+
 
